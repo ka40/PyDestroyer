@@ -1,1 +1,2 @@
 Print "TEst"
+print "test"
